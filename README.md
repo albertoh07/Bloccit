@@ -4,7 +4,7 @@ Made with my mentor at [Bloc](http://bloc.io).
 
 Heroku-approved app name: alberto-bloccit
 
- A [link](https://git.heroku.com/alberto-bloccit.git).
+ The [link] to the app(https://git.heroku.com/alberto-bloccit.git).
 
 
 
