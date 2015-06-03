@@ -2,3 +2,4 @@
  <p><%= @question.body %></p>
 
  <%= link_to "Edit", edit_question_path(@question), class: 'btn btn-success' %>
+<%= link_to "Delete", [@question], method: :delete, class: 'btn btn-danger', data: { confirm: 'Are you sure you want to delete this post?'} %>
